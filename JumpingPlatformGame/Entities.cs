@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 
 namespace JumpingPlatformGame {
-
+    //test comment
     struct WorldPoint
     {
         public Meter X { get; set; }
